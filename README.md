@@ -1,5 +1,5 @@
 # URPScoreHelper（扬州大学掌上教务查分系统）
-Mobile URP system implemented by C++ procedural code
+Mobile URP system implemented by C
 
 是由扬州高校在校学生自行开发，由 N加青年在扬州范围内发行的掌上 URP 代理程序。
 
